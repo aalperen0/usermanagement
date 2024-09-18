@@ -1,0 +1,15 @@
+// @Transactional - @ Autowired annotationa bak | DONE
+// DTO->ENTITY VE ENTITY->DTO'yu servise aktar. | DONE
+
+
+// DELETE USER TEST -> TRUE AND FALSE ID | OK
+// GET USER TEST -> TRUE ID AND FALSE ID | OK
+// GET ALLUSERS TEST -> | OK
+// CREATE USER -> | FALSE EMAIL, SOMEONE'S EMAIL, INCORRECT PASSWORD | OK
+// PUT USER -> | FALSE EMAIL, SOMEONE'S EMAIL  AND TRUE EMAIL | OK
+
+
+
+// HASH PASSWORD OF USER | OK
+// fetchtype.eager, manytomany, simplegrantedauthority bak
+// CREATE LOGIN AND REGISTER -> USER CAN REGISTER AND LOGIN
